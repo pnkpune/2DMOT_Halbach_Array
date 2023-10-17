@@ -1,6 +1,6 @@
 # 2DMOT with Magnets in Halbach Array
 
-This repository contains a code for simulating a 2DMOT(magneto-optical trap) magnetic field using a Halbach array of permanent magnets in a concentric configuration.
+This repository contains a code for simulating a 2DMOT(magneto-optical trap) magnetic field using a Halbach array of permanent magnets in a concentric configuration. Cite as: "Master's thesis (Pranav Kulkarni)"
 
 ### Reference
 
